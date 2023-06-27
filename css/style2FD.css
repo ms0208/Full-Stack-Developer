@@ -1,0 +1,53 @@
+h1{
+    color: aqua;
+    border: solid green;
+    border-width: 10px;
+    margin:10px;
+   text-align: center; 
+   font-style: italic;
+    padding: 5px;
+    outline:5px solid aqua;
+
+  }
+  p1{
+   background-color: aqua;
+    background-color: thin rgb(44, 139, 0);
+    border-width: 5px; 
+
+
+   
+  }
+  span{
+    background-color: aqua;
+  /*  position: relative;*/
+  /*  top:10px;*/
+  }
+  body{
+  background-color: rgb(165, 42, 48);
+ /* background-image: url('./img/hotel.jpeg');
+  background-repeat:no-repeat;
+  background-position: center 500px;
+  background-attachment: scroll;*/
+  /*background: brown url('./img/hotel.jpeg') no-repeat center;*/
+  }
+  p2{
+    background-color: green;
+
+  }
+  #p3{
+    background-color: gold;
+  }
+  .p4{
+    background-color: orangered;
+  }
+    #p5{
+    background-color: pink;
+  }
+  .p6{
+    background-color: red;
+  }
+  h3{
+    background-color: green;
+    border:5px solid;
+    outline:10px solid blue;
+  }
